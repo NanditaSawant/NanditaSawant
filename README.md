@@ -6,6 +6,6 @@ Core skills: Power BI (DAX, Power Query) · SQL · Python · Excel (Advanced) ·
 
 What I'm working on: Currently an Incentive Analyst at J.D. Power, managing incentive programs and data audits across multiple automotive OEM accounts. Building out this portfolio to showcase hands-on analytics projects.
 
-Featured projects below — each includes a full README, sample data, and either the working Power BI file or SQL scripts, not just descriptions.
+Featured projects below each includes a full README, sample data, and either the working Power BI file or SQL scripts, not just descriptions.
 
 Reach me on linkedin.com/in/nandita-sawant-4a0b62155
